@@ -1,1 +1,1 @@
-print("ayyan my love")
+print("ay")
